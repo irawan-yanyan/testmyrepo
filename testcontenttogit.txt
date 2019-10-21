@@ -3,4 +3,4 @@ ini baris ketiga pada file
 ini baris keempat pada file
 ini baris tambahan kelima pada file
 ini baris tambahan keenam pada file
-ini baris tambahan baru baris ketujuh pada file
+ ini baris tambahan baru baris ketujuh pada file
