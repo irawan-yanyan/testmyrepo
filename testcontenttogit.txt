@@ -2,3 +2,5 @@ ini baris pertama pada file
 ini baris kedua pada file
 ini baris ketiga pada file
 ini baris keempat pada file
+ini baris tambahan kelima pada file
+ini baris tambahan keenam pada file
